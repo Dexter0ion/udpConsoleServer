@@ -1,0 +1,19 @@
+ 驱动器 C 中的卷是 SYSTEM
+ 卷的序列号是 0008-71C8
+
+ C:\Users\think\Documents\Visual Studio 2015\Projects\udpConsoleServer\udpConsoleServer 的目录
+
+2017/07/03  21:59    <DIR>          .
+2017/07/03  21:59    <DIR>          ..
+2017/07/03  21:58    <DIR>          Debug
+2017/07/03  21:59                 0 file_name.txt
+2017/07/03  20:27             1,573 ReadMe.txt
+2017/07/03  20:27               220 stdafx.cpp
+2017/07/03  20:27               234 stdafx.h
+2017/07/03  20:27               240 targetver.h
+2017/07/03  21:58             2,782 udpConsoleServer.cpp
+2017/07/03  21:49             8,116 udpConsoleServer.vcxproj
+2017/07/03  21:49             1,411 udpConsoleServer.vcxproj.filters
+2017/07/03  21:49               190 unistd.h
+               9 个文件         14,766 字节
+               3 个目录    135,667,712 可用字节
